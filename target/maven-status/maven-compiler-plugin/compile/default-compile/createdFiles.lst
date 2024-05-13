@@ -1,0 +1,8 @@
+model\package-info.class
+service\obtenerInfoDeLaWeb\ObtenerDeLaWebInformacionReunionEntreSemana.class
+service\package-info.class
+com\excelReuniones\excelReuniones\ExcelReunionesApplication.class
+model\ReunionEntreSemana.class
+service\obtenerInfoDeLaWeb\package-info.class
+controller\package-info.class
+service\obtenerInfoDeLaWeb\ObtenerDeLaWeb.class
